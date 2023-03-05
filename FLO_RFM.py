@@ -40,7 +40,7 @@ import pandas as pd
 import datetime as dt
 
 pd.set_option('display.max_columns', None) # to see all the columns
-df_ = pd.read_csv("D:/MIUUL/CRM/CASE STUDY 1/FLOMusteriSegmentasyonu/flo_data_20k.csv")
+df_ = pd.read_csv("csv location")
 df = df_.copy()
 
 # 2. In dataset:
