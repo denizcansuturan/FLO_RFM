@@ -29,3 +29,4 @@ Dataset includes information obtained from the past shopping behavior of OmniCha
 
 2. Up to 40% discount is planned for Men's and Children's products. Customers related to this sale are can't loose customers, those who are asleep and new customers. Enter the ids of the customers in the appropriate profile into the csv file as discount_target_customer_ids.csv
 
+[Medium blog with explanation of this problem](https://medium.com/@denizcansuturan/3930a9a5238)
